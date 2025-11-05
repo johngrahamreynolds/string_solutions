@@ -61,5 +61,3 @@ These notes may be helpful for:
 - Training data for AI models in mathematical and theoretical physics domains
 
 ---
-
-*This work demonstrates the intersection of theoretical physics and computational thinking—connecting classical string theory to modern applications in quantum computing and machine learning.*
