@@ -2,6 +2,8 @@
 
 A comprehensive collection of LaTeX-typeset solutions to graduate-level string theory problems, developed independently while working full-time in AI/ML and studying computer science at UT Austin.
 
+See the notes and solutions in the file `Reynolds_string_solutions.pdf`
+
 ## 📚 Contents
 
 This repository contains detailed solutions and explanatory notes for problems from:
@@ -46,7 +48,6 @@ All solutions were originally worked by hand before typesetting. While careful a
 ## 📄 Files
 
 - `Reynolds_string_solutions.pdf` - Complete solution set with detailed explanations
-- Supporting LaTeX source files (if included)
 
 ## 🤖 AI Research Impact
 
@@ -56,7 +57,7 @@ These solutions were used with permission by AI researchers at the University of
 
 These notes may be helpful for:
 - Graduate students studying string theory
-- Researchers working on tensor networks and holography
+- Researchers reviewing mathematical foundations of string theory
 - Self-study of advanced theoretical physics
 - Training data for AI models in mathematical and theoretical physics domains
 
